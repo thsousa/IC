@@ -1,4 +1,4 @@
-Hierarchical image segmentation technique based on edge-weighted graphs
+# Hierarchical image segmentation technique based on edge-weighted graphs
 
 This undergraduate research aims to study the image segmentation algorithm developed by Guimarães et al. on the article [1], based on edge-weighted graphs, and to explore proper data structures for its implementation. [1] is based on Felzenswalb and Huttenlocher's method: efficient graph-based image segmentation [2].
 
